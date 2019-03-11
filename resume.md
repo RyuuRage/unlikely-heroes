@@ -9,7 +9,7 @@ Location: Salt Lake City, UT
 ### Develop meaningful code for a productive future.
 
 ## Education
-### Major: Computer Science
+### Major: Computer Science, B.S.
 ### College: Utah Valley University, Orem UT
 * Completed 20 projects in Python, C++, and Javascript.
 * Skilled in debugging with experienced lanuages.
